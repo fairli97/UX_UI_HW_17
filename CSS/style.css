@@ -1,0 +1,52 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.heroImg {
+    position:relative;
+    text-align: center;
+}
+
+.imgtext {
+    position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #E0DCDC;
+  font-size: 64;
+  text-align: center;
+
+}
+
+nav {
+    width:100%;
+    padding:1%;
+    background-color: 070707;
+}
+nav p {
+        color:#E0DCDC
+}
+nav li{
+        color:#E0DCDC;
+        padding-left:100px;
+       
+}
+nav ul{
+    width: 100%;
+        margin-left: auto;
+        
+
+}
+footer{
+    background-color: #E0DCDC;
+    
+}
+footer li{
+    color:black;
+    padding-left: 100px;
+    text-align: left;
+}
+footer ul{
+    display: inline-block;
+    vertical-align: top;
+}
